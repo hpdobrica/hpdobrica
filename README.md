@@ -6,4 +6,4 @@ You can get a good idea about my interests and what I'm currently learning about
 
 I'm currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8wmt7mvdy3kqur2bnkphnj2me&cover_image=true&theme=compact&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=8wmt7mvdy3kqur2bnkphnj2me&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8wmt7mvdy3kqur2bnkphnj2me&cover_image=false&theme=compact&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=8wmt7mvdy3kqur2bnkphnj2me&redirect=true)
