@@ -9,3 +9,5 @@ I'm currently [![Status for @hpdobrica](https://badge.stateful.com/hpdobrica/sta
 And listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8wmt7mvdy3kqur2bnkphnj2me&cover_image=false&theme=compact&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=8wmt7mvdy3kqur2bnkphnj2me&redirect=true)
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=hpdobrica)](https://www.last.fm/user/hpdobrica)
