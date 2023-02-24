@@ -6,4 +6,4 @@ You can get a good idea about my interests and what I'm currently learning about
 
 [![Status for @hpdobrica](https://badge.stateful.com/hpdobrica/status.svg)](https://app.stateful.com/@hpdobrica)
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=hpdobrica)](https://www.last.fm/user/hpdobrica)
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=hpdobrica&count=3)](https://www.last.fm/user/hpdobrica)
